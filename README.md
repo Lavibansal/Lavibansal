@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavi Bansal</h1>
-<h3 align="center">3rd year computer science engineer</h3>
+<h3 align="center">Pre Final year Computer Science Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavibansal&label=Profile%20views&color=0e75b6&style=flat" alt="lavibansal" /> </p>
 
