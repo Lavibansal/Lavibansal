@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bansallavi37@gmail.com**
 
-- ⚡ Fun fact **i think i am gay**
+- ⚡ Fun fact **i think i am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
